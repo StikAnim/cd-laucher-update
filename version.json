@@ -1,42 +1,42 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.0.1",
   "force": false,
   "released": "2026-11-22",
   "notes": "",
   "package": {
     "name": "CDLauncher_update_1.7.0.zip",
-    "size": 147685319,
-    "sha256": "d3d7b77f9cd3aff26d5b15e8f4bbd04de5ed6dad38cd4eb8664468b030e65382",
+    "size": 147759124,
+    "sha256": "21574f8b14c669d50b05d79e14121765105251f7486f3b384d981aca7a0c0324",
     "parts": [
       {
         "file": "CDLauncher_update_1.7.0.zip.001",
         "size": 25165824,
-        "sha256": "fc1c75ca61f3755e990a53656e7be24032415695854c64344221d10be54a8739"
+        "sha256": "c0237bc531a1567342e57cf276926f109c1ec935344983ef163f5a5e95562e54"
       },
       {
         "file": "CDLauncher_update_1.7.0.zip.002",
         "size": 25165824,
-        "sha256": "2c96b23b256b30edc93fe2a5c736ec23635dae8a440c0a8543b53981b9f452ae"
+        "sha256": "b589e728459c2f402f7923a370617edeef774ca814074d71b8d1acffcdb97a14"
       },
       {
         "file": "CDLauncher_update_1.7.0.zip.003",
         "size": 25165824,
-        "sha256": "a5a7bf5bb3ea1f3293f58a9d87cd5d67cf56e34d808e7c9f8a34551339176a91"
+        "sha256": "c71d28e7278fd5798b2476e40c71315ee1a252651e310cbd49fdad522f3ad0af"
       },
       {
         "file": "CDLauncher_update_1.7.0.zip.004",
         "size": 25165824,
-        "sha256": "c1b4022bd495ca0e9ef59fc4108188caebbbdc1de18be292dd300f500ce2096e"
+        "sha256": "246b3bb10125584eb651454192755030239042f26259e1d69ea5e91cfa8b7bcc"
       },
       {
         "file": "CDLauncher_update_1.7.0.zip.005",
         "size": 25165824,
-        "sha256": "23a27711054d0e91ffd0c232cf6625fcb28ccb2a549686cdd78ce0868a7c26d2"
+        "sha256": "56e75bcbb8aca1d767c00d7772a11c55b083727ab7abb58e7e21cb53529de95f"
       },
       {
         "file": "CDLauncher_update_1.7.0.zip.006",
-        "size": 21856199,
-        "sha256": "e3195c66d2176e7739dd88ca7090a1a1469ef05cb90a9ac693e356b84a7dc167"
+        "size": 21930004,
+        "sha256": "a7a1216354afb8e7a82676fde8b7c5c3a3e72507f4ac18d56faf5184e95f7685"
       }
     ]
   }
