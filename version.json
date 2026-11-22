@@ -1,42 +1,42 @@
 {
-  "version": "1.4.0",
+  "version": "1.7.0",
   "force": false,
-  "released": "2026-11-21",
+  "released": "2026-11-22",
   "notes": "",
   "package": {
-    "name": "CDLauncher_update_1.4.0.zip",
-    "size": 147595697,
-    "sha256": "46d554f79dc9dae96adc3447bbc49eda94fd9ddcc793d105026fb830c0952f66",
+    "name": "CDLauncher_update_1.7.0.zip",
+    "size": 147685319,
+    "sha256": "d3d7b77f9cd3aff26d5b15e8f4bbd04de5ed6dad38cd4eb8664468b030e65382",
     "parts": [
       {
-        "file": "CDLauncher_update_1.4.0.zip.001",
+        "file": "CDLauncher_update_1.7.0.zip.001",
         "size": 25165824,
-        "sha256": "867e36bc957f7d8a5874c621fd1afd436f463a9a0d83b0c7452ba8fd07802617"
+        "sha256": "fc1c75ca61f3755e990a53656e7be24032415695854c64344221d10be54a8739"
       },
       {
-        "file": "CDLauncher_update_1.4.0.zip.002",
+        "file": "CDLauncher_update_1.7.0.zip.002",
         "size": 25165824,
-        "sha256": "394d84139c52e62ee96b6dff6cc7dab0479d792b220a02aa6b108a39c4a8f36c"
+        "sha256": "2c96b23b256b30edc93fe2a5c736ec23635dae8a440c0a8543b53981b9f452ae"
       },
       {
-        "file": "CDLauncher_update_1.4.0.zip.003",
+        "file": "CDLauncher_update_1.7.0.zip.003",
         "size": 25165824,
-        "sha256": "737d863acbb0e8e732f566fdbdfc88d548452cb02855387c3362d82b9a47a9bc"
+        "sha256": "a5a7bf5bb3ea1f3293f58a9d87cd5d67cf56e34d808e7c9f8a34551339176a91"
       },
       {
-        "file": "CDLauncher_update_1.4.0.zip.004",
+        "file": "CDLauncher_update_1.7.0.zip.004",
         "size": 25165824,
-        "sha256": "711c3e5ffd422236b6e7d393a4cc33dcaf8c7fb9a1f86ac5b43ba68f2f8b7d3a"
+        "sha256": "c1b4022bd495ca0e9ef59fc4108188caebbbdc1de18be292dd300f500ce2096e"
       },
       {
-        "file": "CDLauncher_update_1.4.0.zip.005",
+        "file": "CDLauncher_update_1.7.0.zip.005",
         "size": 25165824,
-        "sha256": "6138734523813e6f1707d2d731b2e5496b14ace6f16ff6d655dde48f0dcdc34d"
+        "sha256": "23a27711054d0e91ffd0c232cf6625fcb28ccb2a549686cdd78ce0868a7c26d2"
       },
       {
-        "file": "CDLauncher_update_1.4.0.zip.006",
-        "size": 21766577,
-        "sha256": "b41651cb813b5ca177d044d7d22b6f72183f923020e9a505d302e21e61556d19"
+        "file": "CDLauncher_update_1.7.0.zip.006",
+        "size": 21856199,
+        "sha256": "e3195c66d2176e7739dd88ca7090a1a1469ef05cb90a9ac693e356b84a7dc167"
       }
     ]
   }
